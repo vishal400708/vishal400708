@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi 👋 I'm Vishal Yadav
 
-<!--
-**vishal400708/vishal400708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student  
+💻 Aspiring Full Stack (MERN) Developer  
+📍 Navi Mumbai, Maharashtra, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+- Daily DSA practice (LeetCode)
+- Uploading solutions on GitHub
+- Strengthening MERN stack skills
+
+---
+
+### 🛠 Tech Stack
+- HTML | CSS | JavaScript  
+- React | Node.js | Express  
+- MongoDB  
+- Java (DSA)
+
+---
+
+### 📊 DSA Journey
+- Arrays
+- Binary Search
+- Strings (coming soon)
+- Linked List (coming soon)
+
+---
+
+### 🎯 Goals
+- Maintain GitHub & LeetCode daily streak
+- Build strong DSA foundation
+- Get a software developer internship
